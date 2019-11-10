@@ -1,9 +1,11 @@
 ## Charlie Paterson
 
 My name is Charlie Paterson, and I am a developer-in-training with a passion for art and a desire for knowledge and skill 
-aquisition. I hold a 2:1 BSc in Psychology and am a former scout and explorer. I find tech to be an area which presents me
-with a deep trove of technical knowledge to research as needed, while also providing a smorgasbord of opportunities to think 
-creatively and solve problems. Furthermore, I have a desire to work as part of a team.
+aquisition. I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
+I find tech to be an area which presents me with a deep trove of technical knowledge to research as needed, while also
+providing a smorgasbord of opportunities to think creatively and solve problems. 
+Furthermore, I have a desire to work as part of a team and it is particularly in the tech industry where team spirit is 
+a crucial component of the workflow.
 
 ## Skills
 
@@ -37,9 +39,6 @@ were tasked with spending a couple days hiking without our supervisors, which ch
 memories from the hike and what I have learnt from it as a whole, I can say with reasonable confidence that I truly belong in
 a team.
 
-#### Creativity
-(To be filled in)
-
 ## Education
 
 #### Makers Academy (November 2019 to January 2020)
@@ -54,11 +53,22 @@ Still in progress. My core curriculum consists of:
 
 2:1 BSc Psychology 
 
-#### Any other qualifications
+#### Other qualifications
+
 A2 qualifications earned at Highgate Woods secondary school, as follows: 
 Biology, B
+
 Geography, B
+
 Maths, B
+
+GCSE qualifications from Highate Woods secondary school, as follows:
+
+A* grades in Physics, Maths, Chemistry and English Literature
+
+A grades in Biology, Psychology, Geography, English Language and History
+
+Distinction in IT GCSE
 
 ## Experience
 Two seperate weeks of temp work with the City University administration in the school of arts and social sciences, entering
