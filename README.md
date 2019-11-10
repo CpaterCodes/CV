@@ -56,6 +56,7 @@ Still in progress. My core curriculum consists of:
 #### Other qualifications
 
 A2 qualifications earned at Highgate Woods secondary school, as follows: 
+
 Biology, B
 
 Geography, B
