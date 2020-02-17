@@ -7,6 +7,8 @@ providing a smorgasbord of opportunities to think creatively and solve problems.
 Furthermore, I have a desire to work as part of a team and find the common practice of pair programming in the tech industry
 to be great for my productivity and idea generation.
 
+I blog on occasion at https://dev.to/cpatercodes about code and related topics.
+
 ## Skills
 
 #### Research/Analysis
