@@ -47,7 +47,8 @@ comes from my final group project with Makers Academy wherein our team decided w
 Unreal engine 4. There was an option to program classes directly in C++ but also a graphical interface through which you could 
 assemble their logic instead. While at first this latter option seemed alien to us, we were able to interpret it in terms of
 the knowledge of core programming concepts and tools we had learnt at Makers. In turn, we were able to assemble a rather basic
-game with the engine.
+game with the engine. While we were still just beginning to scratch the service of Unreal engine as a technology, I feel
+relatively proud of what we were able to accomplish in a fortnight.
 
 ## Education
 
@@ -58,7 +59,7 @@ During my time at Makers I learnt the following:
 - Agile methodology
 - Ruby, Sinatra, Rails, JavaScript
 - RSpec, Jasmine
-- 
+- Some basic understanding of Unreal Engine (from final project)
 
 #### City University London (September 2015 to June 2018)
 
@@ -87,7 +88,7 @@ Two seperate weeks of temp work with the City University administration in the s
 data from questionnaires into microsoft excel and subsequently setting up the spreadsheets to graph the data and perform tests 
 of statistical significance.
 
-(Currently studying with Makers academy, so no coding related work experience yet).
+(Currently jobhunting with Makers academy, so no coding related work experience yet).
 
 ## Pursuits in my spare time
 
