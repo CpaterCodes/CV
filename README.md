@@ -2,18 +2,18 @@
 
 My name is Charlie Paterson, and I am a developer-in-training with a passion for art and a desire for knowledge and skill 
 aquisition. I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
-I find tech to be an area which presents me with a deep trove of technical knowledge to research as needed, while also
+I find tech to be an area which presents me with a lot of technical knowledge to research as needed, while also
 providing a smorgasbord of opportunities to think creatively and solve problems. 
-Furthermore, I have a desire to work as part of a team and it is particularly in the tech industry where team spirit is 
-a crucial component of the workflow.
+Furthermore, I have a desire to work as part of a team and find the common practice of pair programming in the tech industry
+to be great for my productivity and idea generation.
 
 ## Skills
 
 #### Research/Analysis
 
-When I am looking for answers to a question of mine, the feeling of putting information together is one I find to be magical.
-For the final year of my Psychology degree, me and a set of students were tasked with writing dissertations with 
-theses relevant to data from a variety of experiments we recruited participants for and then subsequently analysed.
+When I am looking for answers to a question of mine, the feeling of delving into a subject to get to that point is always an 
+adventure I value. For the final year of my Psychology degree, me and a set of students were tasked with writing dissertations
+with theses relevant to data from a variety of experiments we recruited participants for and then subsequently analysed.
 
 I personally took interest in the relationship between theory of mind (ability to attribute mental states to others) and the 
 ability to detect lies. I consulted a number of papers and sources in order to understand the relevant academic literature and 
@@ -25,7 +25,7 @@ could be informative for the development of methods to train people to more accu
 
 While I ultimately found no significant correlations between theory of mind and lie detection ability and my methods and
 results sections were the weakest parts of my disseration, my supervisor considered my introduction 'scholarly' and I hope to 
-expand my ability to analyse data as I improve as a developer.
+bring my analytical abilities to a programming role.
 
 #### Teamwork
 
@@ -39,15 +39,26 @@ were tasked with spending a couple days hiking without our supervisors, which ch
 memories from the hike and what I have learnt from it as a whole, I can say with reasonable confidence that I truly belong in
 a team.
 
+## Exploring new technologies
+
+A big part of being a developer - and more broadly, in the world of work and life as a whole - is not being afraid to explore
+new technology, new methods, or more generally new ways of accomplishing your goals. An example that still sticks with me
+comes from my final group project with Makers Academy wherein our team decided we wanted to try and build something with
+Unreal engine 4. There was an option to program classes directly in C++ but also a graphical interface through which you could 
+assemble their logic instead. While at first this latter option seemed alien to us, we were able to interpret it in terms of
+the knowledge of core programming concepts and tools we had learnt at Makers. In turn, we were able to assemble a rather basic
+game with the engine.
+
 ## Education
 
 #### Makers Academy (November 2019 to January 2020)
 
-Still in progress. My core curriculum consists of: 
+During my time at Makers I learnt the following:
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Agile methodology
+- Ruby, Sinatra, Rails, JavaScript
 - RSpec, Jasmine
+- 
 
 #### City University London (September 2015 to June 2018)
 
