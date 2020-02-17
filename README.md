@@ -58,7 +58,7 @@ During my time at Makers I learnt the following:
 - OOP, TDD, MVC, DDD
 - Agile methodology
 - Ruby, Sinatra, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara
 - Some basic understanding of Unreal Engine (from final project)
 
 #### City University London (September 2015 to June 2018)
