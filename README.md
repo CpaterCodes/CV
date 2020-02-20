@@ -96,6 +96,6 @@ of statistical significance.
 
 - Drawing/sketching
 - Reading about history
-- Martials arts (Shorinji Kempo with the BSKF)
+- Martial arts (Shorinji Kempo with the BSKF)
 - Reading about prehistoric wildlife
 - Long walks
