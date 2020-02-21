@@ -1,6 +1,6 @@
 ## Charlie Paterson
 
-My name is Charlie Paterson, and I am a rookie developer with a passion for art and a desire for knowledge and skill 
+My name is Charlie Paterson, and I am a rookie developer with a passion for creation and a desire for knowledge and skill 
 aquisition. I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
 I find tech to be an area which presents me with a lot of technical knowledge to research as needed, while also
 providing a smorgasbord of opportunities to think creatively and solve problems. 
