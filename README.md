@@ -59,7 +59,7 @@ relatively proud of what we were able to accomplish in a fortnight.
 During my time at Makers I learnt the following:
 - OOP, TDD, MVC, DDD
 - Agile methodology
-- Ruby, Sinatra, Rails, JavaScript
+- Ruby, Sinatra, Rails, JavaScript, HTML, CSS
 - RSpec, Jasmine, Capybara
 - Some basic understanding of Unreal Engine (from final project)
 
