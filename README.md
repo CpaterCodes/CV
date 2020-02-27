@@ -1,7 +1,6 @@
 ## Charlie Paterson
-
-My name is Charlie Paterson, and I am a rookie developer with a passion for creation and a desire for knowledge and skill 
-aquisition. I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
+I am Charlie Paterson, a rookie developer with a passion for creation and a desire for knowledge and skill 
+acquisition. I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
 I find tech to be an area which presents me with a lot of technical knowledge to research as needed, while also
 providing a smorgasbord of opportunities to think creatively and solve problems. 
 Furthermore, I have a desire to work as part of a team and find the common practice of pair programming in the tech industry
@@ -34,7 +33,7 @@ One of the main selling points of coding for me is that development is a process
 In that sense, it shares something in common with the three-week hike I completed in the summer of 2015 with the Outward Bound 
 trust. Me and a team of young people made our way through the welsh countryside, spending our nights camping out in tents 
 which required multiple people to assemble/dismantle and to carry all the tent components in our rucksacks. 
-On particularly gruelling terrain and when the situation was particularly emotionally taxing, I would use songs and
+On particularly gruelling terrain and when the situation was particularly emotionally taxing, I would use
 recurring inside jokes in order to help maintain spirits amongst the team. This all became particularly salient as the team 
 were tasked with spending a couple days hiking without our supervisors, which challenged us as a unit. Reflecting on my
 memories from the hike and what I have learnt from it as a whole, I can say with reasonable confidence that I truly belong in
@@ -49,7 +48,7 @@ Unreal engine 4. There was an option to program classes directly in C++ but also
 assemble their logic instead. While at first this latter option seemed alien to us, we were able to interpret it in terms of
 the knowledge of core programming concepts and tools we had learnt at Makers. In turn, we were able to assemble a rather basic
 game with the engine. While we were still just beginning to scratch the service of Unreal engine as a technology, I feel
-relatively proud of what we were able to accomplish in a fortnight.
+proud of what we were able to accomplish in a fortnight.
 
 ## Education
 
@@ -68,21 +67,21 @@ During my time at Makers I learnt the following:
 
 #### Other qualifications
 
-A2 qualifications earned at Highgate Woods secondary school, as follows: 
+**A2 qualifications earned at Highgate Woods secondary school, as follows: 
 
-Biology, B
+Biology: B
 
-Geography, B
+Geography: B
 
-Maths, B
+Maths: B
 
-GCSE qualifications from Highate Woods secondary school, as follows:
+**GCSE qualifications from Highate Woods secondary school, as follows:
 
-A* grades in Physics, Maths, Chemistry and English Literature
+Physics, Maths, Chemistry and English Literature: A*
 
-A grades in Biology, Psychology, Geography, English Language and History
+Biology, Psychology, Geography, English Language and History: A
 
-Distinction in IT GCSE
+IT: Distinction
 
 ## Experience
 Two seperate weeks of temp work with the City University administration in the school of arts and social sciences, entering
