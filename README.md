@@ -25,8 +25,7 @@ government agencies and that a number of other methods to aid the detection of l
 efficacy. In turn I considered that if a connection was found between theory of mind and human lie detection ability, this
 could be informative for the development of methods to train people to more accurately detect lies. 
 
-While I ultimately found no significant correlations between theory of mind and lie detection ability and my methods and
-results sections were the weakest parts of my disseration, my supervisor considered my introduction 'scholarly' and I hope to 
+My supervisor considered my introduction 'scholarly' and I hope to 
 bring my analytical abilities to a programming role.
 
 #### Teamwork
