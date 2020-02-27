@@ -84,9 +84,13 @@ Biology, Psychology, Geography, English Language and History: A
 IT: Distinction
 
 ## Experience
-Two seperate weeks of temp work with the City University administration in the school of arts and social sciences, entering
+Two weeks of temp work with the City University administration in the school of arts and social sciences, entering
 data from questionnaires into microsoft excel and subsequently setting up the spreadsheets to graph the data and perform tests 
 of statistical significance.
+
+I also undertook information retrieval and factsheet writing for non-formal learning organisation 'Clock your skills', 
+which involved reading and taking notes from multiple academic sources at the British library which I would later condense
+into a useful summary.
 
 (Currently jobhunting with Makers academy, so no coding related work experience yet).
 
@@ -94,6 +98,8 @@ of statistical significance.
 
 - Drawing/sketching
 - Reading about history
-- Martial arts (Shorinji Kempo with the BSKF)
+- Martial arts (Shorinji Kempo with the BSKF, currently a brown belt)
+- Archery
 - Reading about prehistoric wildlife
 - Long walks
+- Baking
