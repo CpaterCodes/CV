@@ -41,7 +41,7 @@ were tasked with spending a couple days hiking without our supervisors, which ch
 memories from the hike and what I have learnt from it as a whole, I can say with reasonable confidence that I truly belong in
 a team.
 
-## Exploring new technologies
+#### Exploring new technologies
 
 A big part of being a developer - and more broadly, in the world of work and life as a whole - is not being afraid to explore
 new technology, new methods, or more generally new ways of accomplishing your goals. An example that still sticks with me
