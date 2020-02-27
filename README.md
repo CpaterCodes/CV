@@ -1,6 +1,7 @@
 ## Charlie Paterson
 I am Charlie Paterson, a rookie developer with a passion for creation and a desire for knowledge and skill 
-acquisition. I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
+acquisition. 
+I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
 I find tech to be an area which presents me with a lot of technical knowledge to research as needed, while also
 providing a smorgasbord of opportunities to think creatively and solve problems. 
 Furthermore, I have a desire to work as part of a team and find the common practice of pair programming in the tech industry
