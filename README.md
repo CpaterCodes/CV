@@ -12,6 +12,14 @@ to be great for my productivity and idea generation.
 
 I blog on occasion at https://dev.to/cpatercodes about code and related topics.
 
+## Code Projects
+
+- Javascript Thermostat Project (https://github.com/CpaterCodes/Thermostat_project): Paired on establishing JS logic and CSS styling
+- Makers BnB Sinatra group Project (https://github.com/EManifold/makersBnb-team6): Contributed to backend logic
+- Acebook group Rails Project (https://github.com/ajbacon/acebook-true-GrIT): CSS styling and some backend logic
+- Command Line Income Tax Calculator (https://github.com/CpaterCodes/Income-Tax-Calculator-RB): A more basic solo project, focusing on a complex operation
+- Bank Tech test Practice App (https://github.com/CpaterCodes/Bank-Test-Practice): A simple program built to simulate a bank account and print a statement
+
 ## Skills
 
 #### Research/Analysis
