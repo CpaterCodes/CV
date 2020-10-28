@@ -1,8 +1,11 @@
-## Charlie Paterson
+# Charlie Paterson
+
+## Introducing myself
+
 I am Charlie Paterson, a rookie developer with a passion for creation and a desire for knowledge and skill 
 acquisition. 
-I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions.
-I find tech to be an area which presents me with a lot of technical knowledge to research as needed, while also
+I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions, but I've truly found my passion with tech.
+I find it to be an area which challenges me to undergo extensive research into technical topics as needed, while also
 providing a smorgasbord of opportunities to think creatively and solve problems. 
 Furthermore, I have a desire to work as part of a team and find the common practice of pair programming in the tech industry
 to be great for my productivity and idea generation.
@@ -25,8 +28,7 @@ government agencies and that a number of other methods to aid the detection of l
 efficacy. In turn I considered that if a connection was found between theory of mind and human lie detection ability, this
 could be informative for the development of methods to train people to more accurately detect lies. 
 
-My supervisor considered my introduction 'scholarly' and I hope to 
-bring my analytical abilities to a programming role.
+My supervisor considered my introduction 'scholarly' and I hope to bring my analytical abilities to a programming role.
 
 #### Teamwork
 
@@ -35,8 +37,8 @@ In that sense, it shares something in common with the three-week hike I complete
 trust. Me and a team of young people made our way through the welsh countryside, spending our nights camping out in tents 
 which required multiple people to assemble/dismantle and to carry all the tent components in our rucksacks. 
 On particularly gruelling terrain and when the situation was particularly emotionally taxing, I would use
-recurring inside jokes in order to help maintain spirits amongst the team. This all became particularly salient as the team 
-were tasked with spending a couple days hiking without our supervisors, which challenged us as a unit. Reflecting on my
+conversation in order to help maintain spirits amongst the team. This all became particularly salient as the team 
+were tasked with spending a small number of days hiking without our supervisors, which challenged us as a unit. Reflecting on my
 memories from the hike and what I have learnt from it as a whole, I can say with reasonable confidence that I truly belong in
 a team.
 
@@ -68,7 +70,7 @@ During my time at Makers I learnt the following:
 
 #### Other qualifications
 
-**A2 qualifications earned at Highgate Woods secondary school, as follows: 
+##### A2 qualifications earned at Highgate Woods secondary school, as follows:
 
 Biology: B
 
@@ -76,7 +78,7 @@ Geography: B
 
 Maths: B
 
-**GCSE qualifications from Highate Woods secondary school, as follows:
+##### GCSE qualifications from Highate Woods secondary school, as follows:
 
 Physics, Maths, Chemistry and English Literature: A*
 
@@ -84,14 +86,18 @@ Biology, Psychology, Geography, English Language and History: A
 
 IT: Distinction
 
-## Experience
-Two weeks of temp work with the City University administration in the school of arts and social sciences, entering
-data from questionnaires into microsoft excel and subsequently setting up the spreadsheets to graph the data and perform tests 
-of statistical significance.
+## Work Experience
 
-I also undertook information retrieval and factsheet writing for non-formal learning organisation 'Clock your skills', 
-which involved reading and taking notes from multiple academic sources at the British library which I would later condense
-into a useful summary.
+From May 2020 to September 2020 in the midst of the COVID-19 Pandemic, I was able to secure remote work from Tiberone, an IT consultancy agency who were 
+developing a data visualisation interface for a much larger telecommunications firm. 
+In this time I had various tasks, from shadowing SQL developers on the project to explaining DevOps concepts to non-technical colleagues and gathering relevant
+administrative information to assist the company’s operation in challenging times.
+
+In the summer of 2019, I also undertook information retrieval and factsheet writing for the non-formal learning organisation CLOCK. 
+This involved reading and taking notes from multiple academic sources at the British library which I would later condense into a useful summary.
+
+During the summer of 2019, I engaged in two weeks of temporary work with the City University administration in the school of arts and social sciences, entering
+data from questionnaires into microsoft excel and subsequently calibrating spreadsheets to graph the data and perform tests of statistical significance.
 
 (Currently jobhunting with Makers academy, so no coding related work experience yet).
 
@@ -103,4 +109,4 @@ into a useful summary.
 - Archery
 - Reading about prehistoric wildlife
 - Long walks
-- Baking
+- Cooking
