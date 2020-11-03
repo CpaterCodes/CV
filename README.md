@@ -2,7 +2,7 @@
 
 ## Introducing myself
 
-I am Charlie Paterson, a rookie developer with a passion for creation and a desire for knowledge and skill 
+I am Charlie Paterson, a junior full stack developer with a passion for creation and a desire for knowledge and skill 
 acquisition. 
 I hold a 2:1 BSc in Psychology and like to research topics and come up with creative solutions, but I've truly found my passion with tech.
 I find it to be an area which challenges me to undergo extensive research into technical topics as needed, while also
@@ -96,18 +96,23 @@ IT: Distinction
 
 ## Work Experience
 
-From May 2020 to September 2020 in the midst of the COVID-19 Pandemic, I was able to secure remote work from Tiberone, an IT consultancy agency who were 
-developing a data visualisation interface for a much larger telecommunications firm. 
-In this time I had various tasks, from shadowing SQL developers on the project to explaining DevOps concepts to non-technical colleagues and gathering relevant
-administrative information to assist the company’s operation in challenging times.
+#### Tiberone (May 2020 - September 2020):
 
-In the summer of 2019, I also undertook information retrieval and factsheet writing for the non-formal learning organisation CLOCK. 
-This involved reading and taking notes from multiple academic sources at the British library which I would later condense into a useful summary.
+- Tasked with explaining DevOps concepts to non=technical colleagues
+- Handled Administrative tasks and information relevant to these tasks, assisting smooth operation of the company amidst the COVID-19 Pandemic
+- Took the opportunity to shadow a team of SQL developers on a data visualisation interface project for a much larger company
 
-During the summer of 2019, I engaged in two weeks of temporary work with the City University administration in the school of arts and social sciences, entering
-data from questionnaires into microsoft excel and subsequently calibrating spreadsheets to graph the data and perform tests of statistical significance.
+#### Information retrieval for CLOCK (Summer 2019):
 
-(Currently jobhunting with Makers academy, so no coding related work experience yet).
+- Searched for sources concerning non-formal learning within the British Library
+- Read various chapters and articles from which I took notes
+- Compiled my findings into useful summaries for use by my employer
+
+#### Administrative work within the School of Arts and Social Sciences, City University London (Spring 2019):
+
+- Administered questionnaires
+- Entered data into a spreadsheet
+- Established charts and tests of statistical significance using the data collected
 
 ## Pursuits in my spare time
 
