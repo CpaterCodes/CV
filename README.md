@@ -99,7 +99,7 @@ IT: Distinction
 
 #### Tiberone (May 2020 - September 2020):
 
-- Tasked with explaining DevOps concepts to non=technical colleagues
+- Tasked with explaining DevOps concepts to non-technical colleagues
 - Handled Administrative tasks and information relevant to these tasks, assisting smooth operation of the company amidst the COVID-19 Pandemic
 - Took the opportunity to shadow a team of SQL developers on a data visualisation interface project for a much larger company
 
