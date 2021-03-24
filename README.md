@@ -20,6 +20,7 @@ I blog on occasion at https://dev.to/cpatercodes about code and related topics.
 - Command Line Income Tax Calculator (https://github.com/CpaterCodes/Income-Tax-Calculator-RB): A more basic solo project, focusing on a complex operation
 - Bank Tech test Practice App (https://github.com/CpaterCodes/Bank-Test-Practice): A simple program built to simulate a bank account and print a statement
 - Explorum (https://github.com/CpaterCodes/Explorum): A Rails application intended to practice and gain a deeper understanding of the framework
+- Pentameter (https://github.com/CpaterCodes/Pentameter): A simple application, intended as an exploration of coding and testing with PHP.
 
 ## Skills
 
